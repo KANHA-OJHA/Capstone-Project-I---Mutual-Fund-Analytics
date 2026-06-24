@@ -1,0 +1,7 @@
+transaction_type,kyc_status,txn_count,amount_crore,pct_within_type
+Lumpsum,Pending,669,17.64,8.26
+Lumpsum,Verified,7426,188.35,91.74
+Redemption,Pending,378,9.34,7.61
+Redemption,Verified,4589,115.11,92.39
+SIP,Pending,1585,1.76,8.04
+SIP,Verified,18131,19.96,91.96
